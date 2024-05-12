@@ -1,0 +1,12 @@
+#root {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
